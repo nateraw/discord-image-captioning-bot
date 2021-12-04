@@ -1,8 +1,10 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 
-transformers 
+transformers
+discord
 gdown 
-torch==1.9.1+cpu
+torch==1.8.1+cpu 
+torchvision==0.9.1+cpu
 numpy 
 tqdm 
 Pillow 
