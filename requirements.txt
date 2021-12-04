@@ -1,6 +1,6 @@
 transformers 
 gdown 
-torch 
+torch==1.9.1+cpu
 numpy 
 tqdm 
 Pillow 
