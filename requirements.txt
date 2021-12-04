@@ -1,0 +1,8 @@
+transformers 
+gdown 
+torch 
+numpy 
+tqdm 
+Pillow 
+scikit-image
+git+https://github.com/openai/CLIP.git
