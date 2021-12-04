@@ -1,3 +1,5 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+
 transformers 
 gdown 
 torch==1.9.1+cpu
